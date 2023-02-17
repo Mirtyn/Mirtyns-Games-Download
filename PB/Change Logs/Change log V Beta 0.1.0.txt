@@ -1,0 +1,12 @@
+ -PROJECT BOOST-
+ -ChangeLog-
+ version: Beta 0.1.0
+ 
+ New:
+  -Added a game options menu before the game starts.
+  
+ Changes:
+  -Made the main menu background a brighter black (gray).
+  
+ Behind the scene changes:
+  

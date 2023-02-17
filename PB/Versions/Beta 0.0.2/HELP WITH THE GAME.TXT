@@ -1,0 +1,35 @@
+
+ Controls: 	
+	SPACE 	= Boost (Makes your rocket go forward)
+	Q 		= Rotate rocket left (Makes your rocket turn left)
+	D 		= Rotate rocket right (Makes your rocket turn right)
+	F		= Turn on/off flashlight (NOTE: every time you die/go to next level the flashlight will be turned off)
+	ESCAPE	= Go to main menu (Brings you back to the main menu)
+ 
+ Debug/Cheat keys:
+	L		= Go to next level
+	R		= Reset current level
+	I		= Makes your rocket immune to damage
+	C		= Turns off collision (You fly throug the map)
+	NOTE: every time you die/go to next level the cheats will be turned off
+	
+ Other stuff:
+	If you beat the last level you get set back to the main menu
+	
+ Goal:
+	Land on the landing pad at the end of each level(Or smash into the landing pad)
+	If you get stuck on a level press "R" to restart the level or "N" to go to the next level
+	
+ Main menu:
+	Start	= Starts the game ;)
+	Exit	= Closes the game :(
+	Options	= Gives you options to sound and the graphics
+				-Sound
+				  I recomend you to leave all of the sound options on 80 exept if you'd like to lose your eardrums or hear nothing at all
+				  There is currently no music in the game
+				  NOTE: You don't have to apply changes for the SOUND
+				-Graphics
+				  Full Screen	= It speaks for it self
+				  Vsync 		= Gives your FPS (Frames Per Second) a limit of 60 it also makes the game less heavy for your computer (Not for every computer)
+				  Resolution	= You will have to find out which resolution is the best for YOUR screen the one thats automaticly selected should be the best size but you can always chose a higher one (Except if it's already the highest)
+				  NOTE: Don't forget to press the button "APPLY GRAPHICS CHANGES"

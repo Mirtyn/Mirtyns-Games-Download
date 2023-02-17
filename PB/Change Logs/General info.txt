@@ -1,0 +1,25 @@
+Er is een nieuwe versie uit van Project Boost versie 0.1.1
+Je kan het hier vinden op de website: https://project-boost.mirtyn.be/
+Leaderboard is geupdate
+Je kan nu in Competetive "Real Landing" spelen
+het heeft zijn eigen aparte leaderboard
+en stel dat je "Hardcore" aanzet zal er naast je naam in de leaderboard "HC" staan dat betekend dus dat je hardcore aan stond en dat je dus zeker niet dood bent gegaan
+je kan nogsteeds zonder "Real Landing" spelen
+en ook zonder "Hardcore"
+
+wat extra informatie:
+De bedoeling van het spel is dat je met je raket van het ene platform naar de andere kan vliegen zonder iets te raken van de omgeving.
+Je draait je raket met de “Q” en “D” toetsen en je gaat vooruit met “SPATIE”.
+
+Wanneer je de zip bestand hebt gedownload zal je hem moeten unzippen en alle inhoud ergens plaatsen op je computer.
+Open dan de folder en zoek dan naar het bestand: “Project Boost.exe”.
+Dubbel klik op dat bestand.
+Stel dat je antivirus hier problemen of een warning geeft zeg je best om het te negeren of het openen van het bestand toe te laten.
+Wanneer het spel opstart dan druk je op de knop: “competetive” als je wil spelen voor een positie op de leaderboard.
+Wanneer het spel start in competetive vlieg je bijna altijd naar rechts opzoek naar de landing pad.
+Wanneer je de 3 levels hebt gehaald dan komt er een venster tevoorschijn die zal vragen achter je naam.
+Achter dat je je naam hebt ingevoerd druk je op “Submit” en dan zal je score op de leaderboard komen.
+(Het venster verdwijnt niet als je op submit drukt dus je zal erachter nog eens op back moeten drukken voor naar de main menu te gaan).
+als je een vraag hebt stel die dan in mirtyns-games-chating
+Met vriendelijke groeten
+De developer -Mirtyn-

@@ -1,0 +1,21 @@
+ -PROJECT BOOST-
+ -ChangeLog-
+ version: Beta 0.0.2
+ 
+ New:
+  -Added a starting menu.
+  -Added an options menu.
+  -Added a V-sync option.
+  -Added a Resolution option.
+  -Added sound options.
+  -Added a FPS display.
+  -Added a timer.
+  -Added a level display.
+  -Added a game version display.
+  
+ Changes:
+  -Changed the collor and the lighting strenght of the glowing rocks in the caves.
+  -You can't use "ESCAPE" to quit the game but you will return to the main menu.
+ 
+ Behind the scene changes:
+  -Cleaned up some code.

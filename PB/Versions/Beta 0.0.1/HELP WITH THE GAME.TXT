@@ -1,0 +1,18 @@
+
+ Controls: 	
+	SPACE 	= Boost (Makes your rocket go forward)
+	Q 		= Rotate rocket left (Makes your rocket turn left)
+	D 		= Rotate rocket right (Makes your rocket turn right)
+	F		= Turn on/off flashlight (NOTE: every time you die/go to next level the flashlight will be turned off)
+	ESCAPE	= Quits game
+ 
+ Debug/Cheat keys:
+	L		= Go to next level
+	R		= Reset current level
+	I		= Makes your rocket immune to damage
+	C		= Turns off collision (You fly throug the map)
+	NOTE: every time you die/go to next level the cheats will be turned off
+	
+ Other stuff:
+	If you beat the last level you get set back to the first level
+	
